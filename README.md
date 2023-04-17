@@ -1,1 +1,7 @@
 # MyFirstPythonProject
+###I learned simple 
+
+
+
+
+
